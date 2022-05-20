@@ -10,7 +10,7 @@ language: "en"     # lowercase two-letter ISO language code such as "fr" (see ht
 latitude: "52.173210"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "0.133540"       # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "June 8-9 & 15-17, 2022"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "1:00 - 4:00 pm UTC"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
+humantime: "2:00 - 5:00 pm UTC"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2022-06-08      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2022-06-17        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Sanjay Fuloria", "Sue McClatchy", "Shashank Shekhar Harivyasi", "Rayvn Manuel"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
